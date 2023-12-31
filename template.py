@@ -26,7 +26,7 @@ list_of_files = [
     'requirements.txt',
     'requirements_dev.txt',
     'setup.py',
-    'setup.cfg'
+    'setup.cfg',
     'project.toml',
     'tox.ini',
     'experiments/experiments.ipynb'
